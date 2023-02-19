@@ -8,7 +8,7 @@
 #include <stdio.h>
 void main()
 {
-
+/*Hafez*/
 	u16 num1=5,num2=10;
 
 	printf("num1 before swapping is %d\n",num1);
